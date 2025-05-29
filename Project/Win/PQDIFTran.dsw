@@ -1,0 +1,33 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "PQDIFTran"=".\PQDIFTran.dsp" - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/产品开发/046SHDFR_PQ电能质量监测装置/开发库/SRC/PQDIFTran/project/Win", GWCMAAAA
+    .
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+
